@@ -1,1 +1,72 @@
 Bài 10: Lưu trữ dữ liệu và khai thác thông tin phục vụ quản lý
+
+1 Sự cần thiết phải lưu trữ dữ liệu:
+- Học sinh:
+	+ Mã học sinh (Duy nhất)
+	+ Địa chỉ
+	+ Cách thức liên lạc với bố mẹ!
+	+ Bảng điểm
+	+ Số lần đi học muộn
+	+ Số lần kiểm tra bị điểm kém dưới 5 (Cái này 	mà 	bị báo về cho phụ huynh thì nhức người)
+=> Lưu trữ dữ liệu ở một nơi nào đó (Ở nơi có tên là cơ sở dữ liệu)
+- Giáo viên:
+	+ Mã giáo viên (Duy nhất)
+	+ Lương
+	+ Lịch giảng dạy	
+	+ Địa chỉ 
+=> Lưu trữ dữ liệu ở một nơi nào đó (Ở nơi có tên là cơ sở dữ liệu)
+
+
+- Về học sinh: Trường bạn có 2000 học sinh 
+Làm thế nào để lưu trữ bây giờ???
+- Học sinh thứ 1: 
+	+ Mã số 001
+	+ Địa chỉ Hà Nội
+	+ ...
+- Học sinh thứ 2:
+	+ Mã số 002
+	+ Địa chỉ Hà Nội
+	+ ...
+=> Các bạn phải học về cơ sở dữ liệu
+- Về Account game (garena, Play to gether), Account facebook, instagram, X, Linked
+=> liên quan đến cơ sở dữ liệu
+* Ứng dụng rất nhiều vào thực tế
+
+
+- Thông tin của 2000 bạn học sinh:
+	+ Học sinh thứ 1: Thông tin...
+	+ Học sinh thứ 2: Thông tin...
+	+ Học sinh thứ 3: Thông tin...
+	...
+- Xử lí thông tin như nào???
+	+ Lấy ra những bạn nào có thành tích xuất sắc (Để 		khen thưởng) => lấy ra được 100 học sinh
+	+ Lấy ra những bạn nào đi học muộn nhiều nhất (Để 	nhà trường đầu tư vào việc đi lại cho mọi người hoặc 	là đổi lịch học)
+	+ Lấy ra những bạn nào điểm kém (Để báo về cho phụ 	huynh)
+	+ Tính điểm trung bình cả năm học (Để xem ai học 	sinh giỏi, Khá, Trung bình)
+	...
+
+=> Shope => đăng nhập bằng gmail => sau 1 tháng thì họ sẽ tự động gửi cái thông tin sale 80% qua gmail
+
+- Thu thập dữ liệu tự động:
+	+ Máy quét xem học sinh đấy ai đi muộn (Máy quét sẽ 	khi học sinh đó đi muộn vào trong cơ sở dữ liệu)
+	+ Nhận diện khuôn mặt => camera => đăng ký tài khoản 	ngân hàng nhận diện khuôn mặt tự động
+
+Luyện tập
+1.
+Quản lí giáo viên:
+	+ Mã giáo viên
+	+ Dạy môn gì
+	+ Địa chỉ ở đâu
+	+ Bao nhiêu tuổi
+	...
+Quản lí học sinh, sinh viên:
+	+ Mã học sinh, sinh viên
+	+ Học lớp nào
+	+ Ai là chủ nhiệm
+	+ Thành tích ...
+	...
+2. 
+- Quản lí nhân sự trong công ty
+- Quản lí về doanh thu của một quán trà sữa, trà chanh,...
+- Quản lí về tài khoản game,...
+
