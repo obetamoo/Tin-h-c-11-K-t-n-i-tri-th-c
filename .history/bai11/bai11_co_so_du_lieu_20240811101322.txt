@@ -1,0 +1,5 @@
+Bài 11: Cơ sở dữ liệu
+1. Yêu cầu tổ chức lưu trữ dữ liệu một cách khoa học
+- Lớp học: học sinh, sinh viên => Lúc thi 15p hoặc 1 tiết hoặc cuối kì => có điểm
+=> giáo viên sẽ cần phải lưu trữ điểm lại => giáo viên hay lưu trữ điểm của mỗi học sinh, sinh viên
+ra giấy 

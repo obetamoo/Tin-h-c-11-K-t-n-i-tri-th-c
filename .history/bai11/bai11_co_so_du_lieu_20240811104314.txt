@@ -1,0 +1,45 @@
+Bài 11: Cơ sở dữ liệu
+1. Yêu cầu tổ chức lưu trữ dữ liệu một cách khoa học
+- Lớp học: học sinh, sinh viên => Lúc thi 15p hoặc 1 tiết hoặc cuối kì => có điểm
+=> giáo viên sẽ cần phải lưu trữ điểm lại => giáo viên hay lưu trữ điểm của mỗi học sinh, sinh viên
+ra giấy (cách này không hay)
+
+- Dân chuyên thì lưu trữ bằng cơ sở dữ liệu
+- Enetviet => khi giáo viên có điểm => giáo viên nhập điểm vào enetviet
+- Enetviet => là 1 một cái app => bên trong chứa dữ liệu của nhiều học sinh
+- Khi đăng nhập vào enetviet => thông tin của các bạn được hiển thị ra
+    + Tên
+    + Lớp
+    + Điểm 
+=>> Cái cơ sở dữ liệu đã có thông tin của các bạn rồi
+
+ví dụ:
+- Ở lớp:
+    Nguyễn văn A: 10 điểm
+- Ở app hoặc website: 
+    Nguyên văn A: 10 điểm
+
+- Phần mềm ứng dụng: facebook (app) => khi các bạn hay lướt về cái chủ đề như là game (Liên quân).
+                                       Facebook nó sẽ tự đề suất cho các bạn những chủ đề liên quan
+                                       đến "liên quân mobile" => Khi các bạn hay xem chủ đề về liên quân
+                                       thì cái chủ đề bạn hay xem sẽ được cập nhật bên cơ sở dữ liệu.
+
+                     Tiktok (app)   => Khi các bạn xem nhiều về 1 idol nào đó => tiktok nó sẽ hiện nhiều
+                                    về idol (thần tượng) bạn hay xem 
+                    Căn cước công dân => xác thực bạn là ai, đến từ đâu? không lẽ họ sẽ ghi ra giấy
+                                        Ví dụ: thông tin của 10 triệu người
+                                        ghi ra giấy 10 triệu cái hồ sơ ??? 
+                                        . Khi người ta muốn tra thông tin của bạn => liên quan đến cơ sở dữ liệu
+                    Shoppe  => Khi các bạn hay mua đồ ăn "bà tuyết" => Shoppe nó sẽ gợi ý cho bạn về 
+                                thông tin đồ ăn bạn hay mua => liên quan đến cơ sở dữ liệu
+
+- Lưu dữ liệu dưới dạng văn bản text
+Ví dụ:
+Lớp , Họ và tên  , Điểm
+11D, Nguyen Van A, 10
+11D, Nguyen Van B, 9
+=> Lưu trữ dữ liệu cơ bản (basic)
+- Lưu trữ dữ liệu nâng cao (advanced) => cơ sở dữ liệu
+
+
+                     

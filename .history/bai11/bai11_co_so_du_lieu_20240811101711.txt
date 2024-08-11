@@ -1,0 +1,16 @@
+Bài 11: Cơ sở dữ liệu
+1. Yêu cầu tổ chức lưu trữ dữ liệu một cách khoa học
+- Lớp học: học sinh, sinh viên => Lúc thi 15p hoặc 1 tiết hoặc cuối kì => có điểm
+=> giáo viên sẽ cần phải lưu trữ điểm lại => giáo viên hay lưu trữ điểm của mỗi học sinh, sinh viên
+ra giấy (cách này không hay)
+
+- Dân chuyên thì lưu trữ bằng cơ sở dữ liệu
+- Enetviet => khi giáo viên có điểm => giáo viên nhập điểm vào enetviet
+- Enetviet => là 1 một cái app => bên trong chứa dữ liệu của nhiều học sinh
+- Khi đăng nhập vào enetviet => thông tin của các bạn được hiển thị ra
+    + Tên
+    + Lớp
+    + Điểm 
+=>> Cái cơ sở dữ liệu đã có thông tin của các bạn rồi
+
+
